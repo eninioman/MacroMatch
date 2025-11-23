@@ -1,0 +1,5 @@
+{
+  "name": "MacroMatch AI",
+  "description": "Smart recipe suggestions based on your remaining daily macros and training schedule.",
+  "requestFramePermissions": []
+}
